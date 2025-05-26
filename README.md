@@ -1,54 +1,61 @@
-<header>
+سیاست حفظ حریم خصوصی ربات تلگرام هورژن (Horzhen Telegram Bot Privacy Policy)
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+تاریخ آخرین به‌روزرسانی: 27 می 2025
 
-# GitHub Pages
+تیم توسعه‌دهنده هورژن ("ما") متعهد به حفاظت از حریم خصوصی کاربران ("شما") ربات تلگرام هورژن ("ربات") است. این سیاست حفظ حریم خصوصی توضیح می‌دهد که چه اطلاعاتی را جمع‌آوری می‌کنیم، چگونه از آن‌ها استفاده می‌کنیم، و انتخاب‌های شما در مورد اطلاعاتتان چیست.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+1. اطلاعاتی که ربات جمع‌آوری می‌کند:
 
-</header>
+ربات هورژن فقط اطلاعات ضروری برای ارائه خدمات خود را جمع‌آوری می‌کند:
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+اطلاعات حساب تلگرام: هنگامی که شما با ربات تعامل برقرار می‌کنید، ما شناسه کاربری (User ID) تلگرام شما را دریافت می‌کنیم. این شناسه برای شناسایی شما و ارتباط برقرار کردن با شما در بستر تلگرام ضروری است. همچنین ممکن است نام کاربری (Username) و نام کامل (Full Name) شما را از تلگرام دریافت کنیم که برای بهبود تجربه کاربری و شخصی‌سازی پاسخ‌ها استفاده می‌شود.
+سوابق مکالمات (چت): برای ارائه تجربه چت هوشمند و حفظ زمینه مکالمه با هوش مصنوعی هورژن، پیام‌های شما و پاسخ‌های ربات در طول جلسات چت ذخیره می‌شوند. این سوابق به صورت موقت نگهداری می‌شوند تا هوش مصنوعی بتواند مکالمات قبلی را به خاطر سپرده و پاسخ‌های مرتبط‌تر و دقیق‌تری ارائه دهد.
+2. نحوه استفاده از اطلاعات:
 
-## Step 1: Enable GitHub Pages
+ما از اطلاعات جمع‌آوری شده برای اهداف زیر استفاده می‌کنیم:
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+ارائه و بهبود خدمات ربات: برای پردازش درخواست‌های شما، پاسخ به سوالاتتان توسط هوش مصنوعی، ارائه قابلیت‌های جستجو، و مدیریت حالت‌های مختلف تعامل شما با ربات.
+پشتیبانی و ارتباط با شما: اگر از قابلیت "ارسال پیام به مدیریت" استفاده کنید، پیام شما به تیم توسعه‌دهنده ارسال می‌شود تا بتوانند به درخواست‌ها و بازخوردهای شما رسیدگی کنند.
+بهبود هوش مصنوعی: سوابق مکالمات به صورت ناشناس و تجمیع شده ممکن است برای آموزش و بهبود عملکرد مدل هوش مصنوعی هورژن استفاده شوند تا دقت و کارایی آن در پاسخگویی به سوالات پزشکی افزایش یابد. این فرآیند بدون شناسایی شخصی شما انجام می‌شود.
+3. اشتراک‌گذاری اطلاعات:
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+ما اطلاعات شخصی شما را با هیچ شخص ثالثی (شرکت‌ها، سازمان‌ها، یا افراد خارج از تیم توسعه‌دهنده هورژن) به اشتراک نمی‌گذاریم، نمی‌فروشیم و اجاره نمی‌دهیم، مگر در موارد زیر:
 
-### :keyboard: Activity: Enable GitHub Pages
+ارائه خدمات: اطلاعات مربوط به درخواست‌های شما (مثلاً متن سوال پزشکی) ممکن است به API هوش مصنوعی Gemini (ارائه شده توسط گوگل) ارسال شود تا پاسخ مناسب تولید شود. این اطلاعات صرفاً برای پردازش درخواست شما استفاده می‌شوند و گوگل متعهد به حفظ حریم خصوصی داده‌های شما مطابق با سیاست‌های خود است.
+تیم توسعه‌دهنده: پیام‌های ارسالی به مدیریت فقط در اختیار اعضای تیم توسعه‌دهنده قرار می‌گیرد که مسئول پشتیبانی و بهبود ربات هستند.
+الزامات قانونی: در صورت درخواست مقامات قضایی یا قانونی و طبق قوانین قابل اجرا، ممکن است مجبور به افشای اطلاعات شویم.
+4. امنیت اطلاعات:
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+ما اقدامات امنیتی معقولی را برای حفاظت از اطلاعات شما در برابر دسترسی غیرمجاز، تغییر، افشا یا از بین رفتن، اتخاذ می‌کنیم. با این حال، هیچ سیستم امنیتی نمی‌تواند 100% تضمین‌کننده امنیت باشد.
 
-<footer>
+5. انتخاب‌ها و حقوق شما:
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+شما کنترل کاملی بر اطلاعات خود در ربات هورژن دارید:
 
----
+پاک کردن سابقه چت: شما می‌توانید در هر زمان با استفاده از قابلیت "پاک کردن سابقه چت" در منوی ربات، تمام سوابق مکالمات قبلی خود با هوش مصنوعی هورژن را حذف کنید.
+حذف اکانت: شما می‌توانید در هر زمان با استفاده از قابلیت "حذف اکانت" در منوی ربات، تمام اطلاعات مربوط به حساب خود (شامل شناسه کاربری و تمام سوابق چت) را از سیستم ما به صورت کامل حذف کنید. این اقدام برگشت‌ناپذیر است.
+دسترسی به اطلاعات: شما می‌توانید درخواست دسترسی به اطلاعات شخصی خود را که توسط ربات جمع‌آوری شده است، از طریق قابلیت "ارسال پیام به مدیریت" ارسال کنید.
+6. تغییرات در سیاست حفظ حریم خصوصی:
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+ما ممکن است این سیاست حفظ حریم خصوصی را هر از گاهی به‌روزرسانی کنیم. هرگونه تغییر در این صفحه منتشر خواهد شد. توصیه می‌شود که این صفحه را به صورت دوره‌ای برای اطلاع از آخرین تغییرات بررسی کنید. استفاده مداوم شما از ربات به منزله پذیرش تغییرات است.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+7. تماس با ما:
 
-</footer>
+اگر سوالی در مورد این سیاست حفظ حریم خصوصی دارید، می‌توانید از طریق قابلیت "ارسال پیام به مدیریت" در ربات هورژن با ما تماس بگیرید.
+
+چگونه از این استفاده کنید:
+
+یک صفحه وب بسازید: این متن را در یک صفحه وب جدید در یک سرویس رایگان (مثل Google Sites، Notion، یا GitHub Pages) قرار دهید.
+لینک عمومی دریافت کنید: مطمئن شوید که صفحه شما "عمومی" است و یک آدرس URL قابل دسترسی برای همه دارد.
+URL را به BotFather ارسال کنید: آن URL را به BotFather در پاسخ به سوال "Send me a public URL to the new Privacy Policy for the bot" ارسال کنید.
+این یک سیاست حفظ حریم خصوصی نسبتاً جامع برای ربات شماست و باید مورد قبول تلگرام قرار گیرد.
+
+
+منابع
+
+
+
+
+
+Deep Research
+
